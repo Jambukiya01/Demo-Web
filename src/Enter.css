@@ -1,0 +1,59 @@
+.login{
+    margin: 0; 
+    padding: 0px; 
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, #7e2c60, #88243e);
+   
+}
+
+.form{
+   background-color: aliceblue;
+   height: auto;
+   width: 500px;
+   padding: 20px;
+   border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+}
+
+.fild {
+    display: flex;
+    flex-direction: column;
+}
+
+.other{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+.box{
+    padding: 10px;
+}
+
+.button{
+   margin-left: 150px;
+}
+
+.submit{
+    width: 200px;
+    height: 30px;
+}
+
+.or{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

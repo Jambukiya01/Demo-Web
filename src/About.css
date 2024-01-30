@@ -1,0 +1,43 @@
+.main{
+    margin: 0; 
+    padding: 0px; 
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, #7e2c60, #88243e);
+}
+
+#h4{
+    color: rgb(125, 114, 114);
+}
+
+.but{
+    color: black;
+    border-color: black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.name{
+    margin-right: 10px;
+}
+
+.dob{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.next{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    width: 100vh;
+}
